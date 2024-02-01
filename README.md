@@ -4,18 +4,14 @@
 # 📊 GitHub Stats:
 <div style="display: flex; justify-content: space-between;">
   <div style="flex: 1;">
-    <!-- Primer bloque -->
     ![](https://github-readme-stats.vercel.app/api?username=cos4h&theme=default&hide_border=false&include_all_commits=true&count_private=true)
   </div>
   <div style="flex: 1;">
-    <!-- Segundo bloque -->
     ![](https://github-readme-streak-stats.herokuapp.com/?user=cos4h&theme=default&hide_border=false)
   </div>
 </div>
 
-<!-- Nueva línea para el tercer bloque centrado -->
 <div style="text-align: center;">
-  <!-- Tercer bloque -->
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=cos4h&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 </div>
 
