@@ -10,9 +10,7 @@
 
 </div>
 
-<div style="text-align: center;">
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=cos4h&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-</div>
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=cos4h&theme=radical&no-frame=false&no-bg=true&margin-w=4)
