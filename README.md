@@ -6,7 +6,7 @@
 
 # 📊 GitHub Stats:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cos4h&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=donut)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cos4h&langs_count=6&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=donut)
 ![Cos4h's GitHub stats](https://github-readme-stats.vercel.app/api?username=cos4h&show_icons=true&theme=radical)
 
 
