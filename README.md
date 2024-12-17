@@ -8,11 +8,11 @@
 
 <!--Intro start-->
 
-- 🔭 I’m currently working on **Typescript, JavaScript, Java, C#, Spring Boot, React, Node.JS and ASP.NET**
+- 🔭 I’m currently working on **Typescript, JavaScript, Java, Python**
 
 - 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
 
-- ☁️ I've keen interest in developt .net apps. So,I'm learning **.Net Environment**
+- ☁️ I've keen interest in developt .net apps. So,I'm learning **Quarkus Environment**
 
 
 - 📫 Feel free to reach me out **olvadis2004@gmail.com**
