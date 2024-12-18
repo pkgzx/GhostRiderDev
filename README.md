@@ -53,7 +53,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,java,cs,py,nodejs,spring,express,nest,react,dotnet,html,css,docker,postgres,prisma,cassandra,firebase,git,github,linux,mongodb,mysql,nextjs,postman,redux,tailwind,ghactions&perline=14" />
+    <img src="https://skillicons.dev/icons?i=ts,js,java,cs,py,nodejs,spring,express,nest,react,dotnet,html,css,docker,postgres,k8s,cassandra,firebase,git,github,linux,mongodb,mysql,nextjs,postman,redux,tailwind,ghactions&perline=14" />
   </a>
 </p>
 
