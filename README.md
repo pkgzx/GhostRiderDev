@@ -7,12 +7,9 @@
 </p>
 
 <!--Intro start-->
-
-- 🔭 I’m currently working on **Typescript, JavaScript, Java, Python**
-
 - 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
 
-- ☁️ I've keen interest in developt .net apps. So,I'm learning **Quarkus Environment**
+- ☁️ I've keen interest in developt java native apps. So,I'm learning **Quarkus Environment**
 
 
 - 📫 Feel free to reach me out **olvadis2004@gmail.com**
@@ -53,7 +50,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,java,cs,py,nodejs,spring,express,nest,react,dotnet,html,css,docker,postgres,k8s,cassandra,firebase,git,github,linux,mongodb,mysql,nextjs,postman,redux,tailwind,ghactions&perline=14" />
+    <img src="https://skillicons.dev/icons?i=ts,js,java,cs,py,nodejs,spring,express,nest,react,dotnet,docker,postgres,k8s,linux,mongodb,nextjs,tailwind,ghactions&perline=10" />
   </a>
 </p>
 
