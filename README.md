@@ -50,7 +50,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,java,py,nodejs,spring,nest,react,nextjs,dotnet,docker,k8s,postgres,mongodb,linux,go,bash,aws,tailwind,ghactions&perline=10" />
+    <img src="https://skillicons.dev/icons?i=ts,js,java,go,dotnet,py,postgres,mongodb,nodejs,spring,nest,react,nextjs,tailwind,ghactions,docker,k8s,linux,bash,aws&perline=10" />
   </a>
 </p>
 
