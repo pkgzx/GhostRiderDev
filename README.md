@@ -31,7 +31,7 @@
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=GhostRiderDev&langs_count=10&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=donut&hide=html,css,jupyter+notebook,powershell,javascript"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=GhostRiderDev&langs_count=10&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=donut&hide=html,css,jupyter+notebook,powershell,javascript,makefile"/>
   
   </td>
 </tr>
