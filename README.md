@@ -24,14 +24,14 @@
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=ghostriderdev&theme=radical&show_icons=true&count_private=true" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=pkgzx&theme=radical&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ghostriderdev&theme=radical" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=pkgzx&theme=radical" /> 
 </td>
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=GhostRiderDev&langs_count=10&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=donut&hide=html,css,jupyter+notebook,dart,powershell,javascript,makefile"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=pkgzx&langs_count=10&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=donut&hide=html,css,jupyter+notebook,dart,powershell,javascript,makefile"/>
   
   </td>
 </tr>
