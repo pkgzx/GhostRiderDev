@@ -16,26 +16,18 @@
 
 - 🏠 Don't hesitate to drop me a **👋** on Discord – [olvadis](https://discordapp.com/users/1201649030103564321) my username!
 <!--Intro end-->
-
 <!--- stats & Trophy (start) -->
 <p align="center">
   <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
+<div align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=pkgzx&theme=radical&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://streak-stats.demolab.com?user=pkgzx&theme=radical&short_numbers=true" /> 
-</td>
-
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=pkgzx&langs_count=10&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=donut&hide=html,css,jupyter+notebook,dart,powershell,javascript,makefile"/>
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pkgzx&theme=github_dark)
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pkgzx&theme=github_dark&exclude=html)
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pkgzx&theme=github_dark)
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pkgzx&theme=github_dark)
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pkgzx&theme=github_dark&utcOffset=8)
   
-  </td>
-</tr>
-</table>
+</div>
 <!--- stats (end) -->
 
 </p>        
