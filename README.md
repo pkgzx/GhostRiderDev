@@ -42,7 +42,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,java,go,py,postgres,spring,nest,react,nodejs,ghactions,docker,k8s,bash,aws,flutter,redhat,neovim&perline=9" />
+    <img src="https://skillicons.dev/icons?i=ts,js,java,py,postgres,spring,nest,react,nodejs,docker,bash,aws,flutter,redhat,neovim&perline=9" />
   </a>
 </p>
 
